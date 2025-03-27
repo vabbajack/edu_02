@@ -7,6 +7,7 @@
 - Learn how to Git
 - Work with the repos
 
-
+## Stable version
+- All features approved
     
 
