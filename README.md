@@ -9,5 +9,15 @@
 
 ## Stable version
 - All features approved
+
+## Problems
+- Mistake in the header
+
+## Fixes
+- Mistake fixed
+
+## Experimental feature
+- New feature for my project
+
     
 
